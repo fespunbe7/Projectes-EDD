@@ -2,16 +2,6 @@
 #include <iostream>
 #include "Cercle.h"
 #include "Ellipse.h"
-
-
-
-
-
-
-
-
-
-
 #include <vector>
 #include <typeinfo>
 using namespace std;
